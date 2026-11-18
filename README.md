@@ -1,8 +1,10 @@
 # MouseCFG
 
 Script opensource para el scyrox v8 entre otros
-Doble click en Mouse cfg.cmd. El .ps1 tiene que quedar al lado.
-No instala nada. Los cambios quedan en el mouse y el script se cierra.
+Doble click en Mouse cfg.cmd. 
+El .ps1 tiene que quedar al lado.
+No instala nada. 
+Los cambios quedan en el mouse y el script se cierra.
 
 Escribe (protocolo CompX, el de Mouse cfg para esta familia):
   Scyrox V8 y V8S
